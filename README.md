@@ -1,4 +1,4 @@
 # collage-
 my first learning
 <br>
-Author - Sagar Bastola
+Author - Sagar (collage)
